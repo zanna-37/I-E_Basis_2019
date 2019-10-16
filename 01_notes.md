@@ -54,6 +54,8 @@ A case when induction is not applicable: "A farmer feeds a turkey everyday at 8a
 
 ### British Parliament
 
+![British Parliament](resources/01_britishparliament.jpg)
+
 Key points:
 - **Moderation**
 - People **stand up** when they talk
@@ -95,6 +97,9 @@ There are two types of debates:
 Debates can be **retrospective** or **prospecting**
 
 ## The Star Wars experiment
+
+![Star Wars](resources/01_starwars.jpeg)
+
 **Constructing a prequel**: speaker summarizes the story from the IV to the VI and then he describe the I. The test subject must guess what happens in the II and III.
 
 **Constructing a sequel:** The speaker summarizes the story now starting in the chronological order from the I to the IV. The test subject must guess what happens in the last films (V and VI).
