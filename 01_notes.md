@@ -65,9 +65,9 @@ Key points:
 - **Summarize** their ideas
 - **Sarcasm** and **theatrics**
 
-The people who speak at the british parliament are leaders as they have qualities from above that characterise them as such. For battles, participants are expected to behave as leaders as it is a simulation of real life with real problems.
+The people who speak at the british parliament are leaders as they have qualities from above that characterise them as such. For battles, participants are expected to behave as leaders as it is a simulation of real life with real problems. 
 
-# Why battles to teach I&E?
+# Why battles to teach I&E? [📹35:02](https://youtu.be/GAPFpCKG7do?t=2102)
 
 Battles are used to talk about **innovation** because:
 
@@ -90,8 +90,8 @@ There are two types of debates:
 * **Open debate** - there's no clear answer year, there is still discussion about the topic with competing possible solutions. `Ex:` _Privacy, climate change, exploiting natural non-renewable resources, …_
 * **Closed debate** - discussions about ideas that have been already established `Ex:` _Voting rights to women, is junk food good or not, …_
 
+# Retrospective vs Prospecting reasoning  [📹44:41](https://youtu.be/GAPFpCKG7do?t=2676)
 
-# Retrospective vs Prospecting reasoning
 Debates can be **retrospective** or **prospecting**
 
 ## The Star Wars experiment
@@ -117,7 +117,7 @@ Alternative beginning → Controversy → Reconciliation
 
 **Goal**: create questions, affect final result
 
-# Conflict and competition
+# Conflict and competition [📹1:03:53](https://youtu.be/GAPFpCKG7do?t=3833)
 **Cooperation** → write the report together
 **Competition** → fight against each other
 
@@ -135,10 +135,11 @@ In incremental innovation we start to get a niche of the market and once the inn
 
 If two business people are to open a restaurant and a ice cream shop, it initially appears that they are not different markets and appeal to different people but there is competition underlying. For example, in the physical space to advertise.
 
-# Who wins a battle?
+# Who wins a battle? [📹1:14:47](https://youtu.be/GAPFpCKG7do?t=4487)
+
 - The more persuasive and convincing team
 
-# Battle contents
+# Battle contents [📹1:15:37](https://youtu.be/GAPFpCKG7do?t=4537)
 ## Horizontal
 - The content used in the battle can be shared and reused for other battles
   - `Ex:` _Human rights: how workers are treated_
@@ -154,7 +155,7 @@ Building abstraction and wrapping through scenarios.
 
 `Ex:` Abstract from the exploration of Mars to Titan (a moon of Jupiter)
 
-# Battle activities
+# Battle activities [📹1:21:54](https://youtu.be/GAPFpCKG7do?t=4912)
 ## Pre-Class
 Two weeks before each battle we'll have a meeting in which we will discuss what is allowed and not allowed to be discussed in the battle. We have two weeks to prepare the arguments and research the topic.
 
@@ -167,7 +168,7 @@ Two weeks before each battle we'll have a meeting in which we will discuss what 
 
 In January the two teams need to deliver the battle report.
 
-# Summary
+# Summary [📹1:30:09](https://youtu.be/GAPFpCKG7do?t=5409)
 
 - Battles are case studies based on debates
 - Debates can be retrospective or prospective
