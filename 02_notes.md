@@ -33,9 +33,7 @@ There's no simple bucket to put these skills, there are different broad ranges w
 
 - 21st Century Skills → P21 Framework
 
-  ![P21 Framwork](/Users/sergionobrega/Git/I-E_Basis_2019/resources/02_p21framwork.png)
-
-  
+  ![P21 Framework](resources/02_p21framwork.png)
 
 - OECD → Microsoft, intel, cisco
 
