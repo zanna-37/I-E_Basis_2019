@@ -1,3 +1,12 @@
+---
+ebook:
+  title: Lecture 01
+
+export_on_save:
+  ebook: "html"
+
+---
+
 # Introduction to Technology Battles
 
 **Date**: 2019-10-07

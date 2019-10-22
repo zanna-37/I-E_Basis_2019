@@ -1,3 +1,12 @@
+---
+ebook:
+  title: Lecture 02
+
+export_on_save:
+  ebook: "html"
+
+---
+
 # Innovation Skills
 
 **Date**: 2019-10-09
