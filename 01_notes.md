@@ -34,30 +34,30 @@ What is a case study?
 #### Induction
 
 - Achiving generalization starting from particular scenarios
-  - `Example:` _Telling general law starting from large number of examples_
+  - `Example:` _Telling general law starting from a large number of examples_
 
 ##### Problems of Induction
 
 - Wrong generalization
   - `Example:` _Racism_
-- Impossible to make a generalization because of:
+- Impossible to generalize because of:
   - The past may not reflect the future
-  - Not enough datapoints - even though it might cover all the cases, it might not have enough datapoints to make a conclusion on those who are most common or not
+  - Not enough data points - even though it might cover all the cases, it might not have enough data points to make a conclusion on those who are most common or not
   - Wrong dataset - it may not cover all the cases or be biased
-  - Unknowingly partial dataset - sometimes we don't know that our dataset is partial because we don't have knowledge about the full range of possible datapoints.
+  - Unknowingly partial dataset - sometimes we don't know that our dataset is partial because we don't have knowledge about the full range of possible data points.
 
-`Example:` _A case when induction is not applicable: "A farmer feeds a turkey everyday at 8am in any weather conditions, without failing. On a given day, the turkey is expecting to be fed but the farmer got there and kill it for thanksgiving" Karl Popper._
+`Example:` _A case when induction is not applicable: "A farmer feeds a turkey every day at 8 am in any weather conditions, without failing. On a given day, the turkey is expecting to be fed but the farmer got there and kill it for thanksgiving" Karl Popper._
 
 #### Deduction
 
 * Having a general law and deducting specific cases
 
-**Scientific method** is falsificatory bacause it does not prove that some law is true. You're tring to find situations where the law does not apply.
+**Scientific method** is falsificatory because it does not prove that some law is true. You're trying to find situations where the law does not apply.
 
 ##### Problems of Deduction
 
 - The past may not reflect the future
-- When people are sure about a thing they will continue to search for arguments that support they theory and not arguments against
+- When people are sure about a thing they will continue to search for arguments that support their theory and not arguments against
   - `Quote:` _It is a capital mistake to theorize before one has data. Inevitably, one begins to twist facts to suit theories, instead of theories to suit facts._
     _\- Sherlock Holmes (2009 film)_
   - `Example:` _The flat-earth theory_
@@ -73,21 +73,21 @@ Key points:
 - People are **not ashamed** to be expressive
 - **Shout** if agree or not
 - There is a **procedure** and a process
-- Desingated **place** and **representatives**
+- Designated **place** and **representatives**
 - **Bold presence**
 - **Summarize** their ideas
 - **Sarcasm** and **theatrics**
 
-The people who speak at the british parliament are leaders as they have qualities from above that characterise them as such. For battles, participants are expected to behave as leaders as it is a simulation of real life with real problems.
+The people who speak at the British parliament are leaders as they have qualities from above that characterize them as such. For battles, participants are expected to behave as leaders as it is a simulation of real-life with real problems.
 
 # Why battles to teach I&E? [📹35:02](https://youtu.be/GAPFpCKG7do?t=2102)
 
 Battles are used to talk about **innovation** because:
 
 * They're fun
-* Open-mindeness
+* Open-mindedness
 * Stimulate critical thinking
-* It's what we need to need in order to push an innovation forward in real life
+* It's what we need to need in order to push innovation forward in real life
 
 Battles are also for **entrepreneurship** because:
 
@@ -111,7 +111,7 @@ Debates can be **retrospective** or **prospecting**
 
 ![Star Wars](resources/01_starwars.jpeg)
 
-**Constructing a prequel**: speaker summarizes the story from the IV to the VI and then he describe the I. The test subject must guess what happens in the II and III.
+**Constructing a prequel**: The speaker summarizes the story from the IV to the VI and then he describes the I. The test subject must guess what happens in the II and III.
 
 **Constructing a sequel:** The speaker summarizes the story now starting in the chronological order from the I to the IV. The test subject must guess what happens in the last films (V and VI).
 
@@ -120,7 +120,7 @@ Debates can be **retrospective** or **prospecting**
 It is way easier to construct the prequel (past) because we already know what the future holds, we can easily make connections between the different events of the future to derive something from the past. Doing the opposite, imagining the future from only knowing the past and present, is way harder because it leaves us with a whole world of possibilities.
 
 ## Retrospective reasoning
-Main question is: **Given the current state of the world, how did we get here?**
+The main question is: **Given the current state of the world, how did we get here?**
 
 State of the world → Analysis → Explanation
 
@@ -131,7 +131,7 @@ Given an alternate beginning, how could it end?
 
 Alternative beginning → Controversy → Reconciliation
 
-**Goal**: create questions, affect final result
+**Goal**: create questions, affect the final result
 
 # Conflict and competition [📹1:03:53](https://youtu.be/GAPFpCKG7do?t=3833)
 **Cooperation** → write the report together
@@ -139,17 +139,17 @@ Alternative beginning → Controversy → Reconciliation
 
 ## Disruptive innovation
 
-Disruptive innovation faces a market that is **very big**. They position themselves in a given market and change the paradigm of things are done.
+Disruptive innovation faces a market that is **very big**. They position themselves in a given market and change the paradigm of how things are done.
 
 `Example:` Iliad for the price, Revolut and N26 because they are completely digital banks.
 
 ## Incremental innovation
 
-In incremental innovation we start to get a niche of the market and once the innovation is taken over we try to deploy your new product in other product niche.
+In incremental innovation, we start to get a niche of the market and once the innovation is taken over we try to deploy your new product in other product niche.
 
 `Example:` Facebook was initially seen as a better way of doing social networks but ended up being disruptive because they completed changed the market.
 
-If two business people are to open a restaurant and a ice cream shop, it initially appears that they are not different markets and appeal to different people but there is competition underlying. For example, in the physical space to advertise.
+If two business people are to open a restaurant and an ice-cream shop, it initially appears that they are not different markets and appeal to different people but there is competition underlying. For example, in the physical space to advertise.
 
 # Who wins a battle? [📹1:14:47](https://youtu.be/GAPFpCKG7do?t=4487)
 
@@ -162,7 +162,7 @@ If two business people are to open a restaurant and a ice cream shop, it initial
   - `Example:` _Ethics_
 
 ## Vertical
-- Content are specific of a battle
+- Contents are specific of a battle
   - `Example:` _The model X is better than Y because of Z_
 
 ## Scenario

@@ -21,7 +21,7 @@ export_on_save:
 
 # Why skills? [📹0:00](https://youtu.be/yCTMpxLP-38)
 
-* Difficult to innovate without skills `Example:` _Comunication, problem solving leadership, stress management, agility, teaching, technical skills, pitching, awareness, …_
+* Difficult to innovate without skills `Example:` _Comunication, problem-solving, leadership, stress management, agility, teaching, technical skills, pitching, awareness, …_
 * Skills are required for different fields `Example:` _Policy, academia, business_
 
 There's no simple bucket to put these skills, there are different broad ranges we can consider. Skills take all sorts of things and a simple one.
@@ -35,7 +35,7 @@ There's no simple bucket to put these skills, there are different broad ranges w
 
 ## Skill listing and grouping
 
-- EntreComp (Entrepreneurshiop Competence Framework) → proposed by the European Union
+- EntreComp (Entrepreneurship Competence Framework) → proposed by the European Union
 
   ![EntreComp](resources/02_entrecomp.jpeg)
 
@@ -51,7 +51,7 @@ There's no simple bucket to put these skills, there are different broad ranges w
 
 # Skill work [📹16:10](https://youtu.be/yCTMpxLP-38?t=969)
 
-_Form a group and organize yourself to be able to choose a skill present it_
+_Form a group and organize yourself to be able to choose a skill and to present it_
 
 The presented topics were:
 
