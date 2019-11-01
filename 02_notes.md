@@ -34,6 +34,7 @@ There's no simple bucket to put these skills, there are different broad ranges w
 - Loosely defined
 
 ## Skill listing and grouping
+
 - EntreComp (Entrepreneurshiop Competence Framework) → proposed by the European Union
 
   ![EntreComp](resources/02_entrecomp.jpeg)
@@ -49,6 +50,7 @@ There's no simple bucket to put these skills, there are different broad ranges w
 - OECD → Microsoft, intel, cisco
 
 # Skill work [📹16:10](https://youtu.be/yCTMpxLP-38?t=969)
+
 _Form a group and organize yourself to be able to choose a skill present it_
 
 The presented topics were:
@@ -61,5 +63,6 @@ The presented topics were:
 **Working with Others** [📹36:59](https://youtu.be/yCTMpxLP-38?t=2061)
 **Learning through Experience** [📹42:02](https://youtu.be/yCTMpxLP-38?t=2522)
 
-# Conclusion [📹47:07](https://youtu.be/yCTMpxLP-38?t=2827)
+# Summary [📹47:07](https://youtu.be/yCTMpxLP-38?t=2827)
+
 Skills are beyond entrepreneurship because they have application in many fields, even in daily life.

@@ -27,8 +27,8 @@ In the past young people were not trusted by investors but time is changing this
 - Olivetti & Ferrari: Ethical and aesthetic → the factories are liveble and beautiful, good condition for workers
 
 # Fouth industrial revolution
-- Digitalization in all spheres of live
-- Globalizaiton
+- Digitalization in all spheres of life
+- Globalization
 - Different demographics `Ex:`_Population ageing, migrations, …_
 
 # Post modern role models
