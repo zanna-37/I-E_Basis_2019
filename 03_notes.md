@@ -93,6 +93,6 @@ A lot of them digitalized something. Others moved their mission and now help oth
 Tech Entrepreneurship was about the _performers_, _the founders_.
 Instead companies **are now role models**: it is more important the performance than the performers, the founders are less important now to give space to the organization they run and the knowledge and skills they brought.
 
-# Summary  [📹1:26:52](https://youtu.be/h8b_GTZd2Ek?t=5212)
+# Summary [📹1:26:52](https://youtu.be/h8b_GTZd2Ek?t=5212)
 
 Entrepeneurial mindset and attitude is needed for every kind of job and situation. The new era is an era of entrepreneurial mindset which is a normal behaviour for humans, bacause humans are naturally curious and driven by motivation and goals.

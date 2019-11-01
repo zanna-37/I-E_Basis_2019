@@ -25,7 +25,7 @@ It was initially a buzzword but it is now part of our **reality**. Also, somethi
 
 **Hewlett-Packard** products can be categorised as **hardware** - computers and other devices (printers, scanners, servers, ...) - and **services**.
 
-Hewlett and Packard started a startup in their garage through research. They developed a business of PCs, computers, acessories, etc. HP is also known for the printers and using its supplies for profit (ink cartridges) which allowed them to have a great market share on the printing sector. HP grew so much that it lost its agility and quickiness of response. Around 6 years ago they broke the company in 2 - one focused in the hardware business and another HP Enterprise focused in services.
+Hewlett and Packard started a startup in their garage through research. They developed a business of PCs, computers, accessories, etc. HP is also known for the printers and using its supplies for profit (ink cartridges) which allowed them to have a great market share on the printing sector. HP grew so much that it lost its agility and quickiness of response. Around 6 years ago they broke the company in 2 - one focused in the hardware business and another HP Enterprise focused in services.
 
 #### The case of an agriculture/pharmaceutical company
 
