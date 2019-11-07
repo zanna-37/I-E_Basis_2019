@@ -1,3 +1,14 @@
+---
+ebook:
+  title: Lecture 06
+
+export_on_save:
+  ebook: "html"
+
+---
+
+<a href="https://zanna-37.github.io/I-E_Basis_2019/"><img src="./resources/home.png" alt="Home" style="vertical-align: bottom;">Home</a>
+
 # Organisations
 
 **Date**: 2019-11-04
@@ -40,7 +51,7 @@ ICT companies that were present 50 years ago:
 * How did the **organisation structure affect decision-making**?
   * The senior was the bottleneck of the organisation
 * **Culture** and **decision-making**
-  * They call themselves professional adventurers - they are confident, they trust their training, they are very independent $\to$ you don't follow the leader
+  * They call themselves professional adventurers - they are confident, they trust their training, they are very independent → you don't follow the leader
 * **Improvisation** - how much space?
   * Not a lot of space for improvisation, yet this is what saved the people that survived
 * Organisation **structure** and **size**
