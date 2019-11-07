@@ -16,7 +16,7 @@ What is real knowledge, what is false
 Epistemology of computer science
 
 # Uncertenty
-`Ex:` _Weather, quantum states, …_
+`Exemple:` _Weather, quantum states, …_
 
 # Alan Turing
 ## Contributions
@@ -43,7 +43,7 @@ Epistemology of computer science
 5. That have **Uncertain consequences**
 6. That might prompt to redefine **Aspiration levels** (`→ 2.`)
 
-`Ex:` _loops, back-propagation, try-catch_
+`Exemple:` _loops, back-propagation, try-catch_
 The loops are not for free, they need: power, energy, time. At some time you need to stop.
 
 ## Sensemaking
@@ -55,14 +55,14 @@ Run as many as possible
 Prototype to fail cheaper
 
 Looping is not always the way.
-`Ex:` _If you continue to loop to improve the candle, you will never discover light bulb_
+`Exemple:` _If you continue to loop to improve the candle, you will never discover light bulb_
 
 # Beyond bounded rationality
 Overriding the auto-pilot
 
 auto-pilot is riskless and stable but it will always search for the local optimum but not the global optimum
 
-When to override `Ex:` _Emergency situation, training (push yourself forward), oppurtunity that not lies in a usual scenario_
+When to override `Exemple:` _Emergency situation, training (push yourself forward), oppurtunity that not lies in a usual scenario_
 
 # The unreal
 Overruling "manual pilot"
@@ -70,7 +70,7 @@ Overruling "manual pilot"
 Autopilot blocks you to do an action that will improve your situation
 
 # Competing pilots buying an appliance
-If you add parameters the complexity grows exponentially and you may decide to fallback to an autopilot choice `Ex:` _A brand that you used in the past, just the price, one random_
+If you add parameters the complexity grows exponentially and you may decide to fallback to an autopilot choice `Exemple:` _A brand that you used in the past, just the price, one random_
 
 # Dating
 TODO manual automatic
