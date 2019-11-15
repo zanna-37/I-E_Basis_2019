@@ -36,7 +36,7 @@ ICT companies that were present 50 years ago:
 * UN (United Nations)
 * EU (European Union)
 * Univesity
-* Non-profit organizations
+* Non-profit organisations
 * Cities
 * Orchestras
 * Family
@@ -108,3 +108,31 @@ Uses an upside-down organisation in which the units are not individuals but cell
 * **How much can an individual impact the organisation?** It is limited to the team they belong.
 * **How quickly can the organiser respond to disruptions?** Very quickly, they can kill a cell and start a new one.
 * **How can the organisation scale?** Very easily, just add new cells.
+
+# Type of Organisational Structures
+
+## Vertical Functional
+
+An organisation with a functional structure is divided based on functional areas, such as IT, finance, or marketing. Functional departmentalisation arguably allows for **greater** operational  efficiency because employees with shared skills and knowledge are  grouped together by function. A **disadvantage** of this type of structure is that the different  functional groups may not communicate with one another, potentially  decreasing flexibility and innovation. A recent trend aimed at combating this disadvantage is the use of teams that cross traditional  departmental lines.
+
+![](resources/06_vertical-organization.png)
+
+## Divisional
+
+Divisional structures group various organisational functions into product or regional divisions. Each division contains all the necessary resources and functions within it to support that product line or geography (for example, its  own finance, IT, and marketing departments). A multidivisional form (or “M-form”) is a legal structure in which one parent company owns subsidiary companies, each of which uses the  parent company’s brand and name. The divisional structure is **useful** because failure of one division doesn’t directly threaten the other divisions. In the multidivisional  structure, the subsidiaries benefit from the use of the brand and  capital of the parent company. **Disadvantages** of divisional structure can include operational  inefficiencies from separating specialized function. For the multidivisional structure, disadvantages can include increased  accounting and taxes.
+
+![](/Users/sergionobrega/Git/I-E_Basis_2019/resources/06_divisional-organisation.png)
+
+## Matrix
+
+The matrix structure is a type of organisational structure in which individuals are grouped via two operational frames. Matrix structures are inherently complex and versatile, making them more appropriate for large companies operating across different industries or geographic regions. Proponents suggest that matrix management is **more dynamic** than  functional management in that it allows team members to share  information more readily across task boundaries; it also allows for specialisation that can increase depth of knowledge. A **disadvantage** of the matrix structure is the increased complexity  in the chain of command, which can lead to a higher manager-to-worker ratio and contribute to conflicting loyalties among employees.
+
+![](resources/06_matrix-organization.png)
+
+## Team-Based
+
+The team structure in large organisations is a newer type of organisational structure. A team should be a group of workers, with  complementary skills and synergistic efforts, all working toward a common goal. An organisation may have several teams that can change over time. Teams that include members from different functions are known as cross-functional teams. Although teams are characterized as less hierarchical, they typically still include a management structure (or management team). **Critics** argue that the use of the word “team” to describe modern organisational structures is a fad—that some teams are not really teams at all but merely groups of staff. One aspect of team-based structures likely to persist indefinitely is the integration of team cultures within an broader structure (such as a functional structure with interspersed teams).
+
+## Network
+
+The network structure is a newer type of organisational structure  viewed as less hierarchical (i.e., more “flat”), more decentralized, and more flexible than other structures. In a network structure, managers coordinate and control relationships that are both internal and external to the firm. The concept underlying the network structure is the social network—a social structure of interactions. Open communication and reliable  partners (both internally and externally) are key components of social  networks. Proponents argue that the network structure is more agile than other structures. Because it is decentralized, a network organisation has  fewer tiers, a wider span of control, and a bottom-up flow of decision  making and ideas. A disadvantage of the network structure is that this more fluid  structure can lead to more complex relations in the organisation.
