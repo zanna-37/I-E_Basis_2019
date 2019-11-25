@@ -18,7 +18,7 @@
 
 `Quote:`_"If the rate of change on the outside exceeds the rate of change on the inside, the end is near" - Jack Welch_
 
-When there is a discrepancy in the rate of change inside and outsde an organization, there is a problem.
+When there is a discrepancy in the rate of change inside and outside an organization, there is a problem.
 
 You need to develop new ideas internally or you need to **internalize** the outside development.
 If you cannot do any of them the company start to slow down its development.
@@ -57,9 +57,9 @@ Trying to diversify the source of innovation
 
 Other examples: hackathons
 
-Facebook acquire competitionrs and other companies → they dont have internal innovation so they buy external value
+Facebook acquire competitionrs and other companies → they don't have internal innovation so they buy external value
 
-Apple are one of the fewer that has internal R&D and push to the market
+Apple are one of the fewer that still has internal R&D and _push_ to the market
 
 # Virtuos circle broken
 much more knowledge available in the system → university, knowledge economy
