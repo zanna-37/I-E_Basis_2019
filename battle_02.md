@@ -19,6 +19,8 @@ export_on_save:
 
 -----
 
+# Overview
+
 The battle is a battle of utopias that starts from the idea of the **Kardashev scale**[^1].
 [^1]: **Kardashev scale** [[wikipedia](https://en.wikipedia.org/wiki/Kardashev_scale)] is a method of measuring a civilization's level of technological advancement based on the amount of energy they can use.
 The scale has three designated categories:
