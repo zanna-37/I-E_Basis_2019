@@ -1,8 +1,8 @@
-# Open / Closed Innovation
+# Open / Closed Innovation {ignore=true}
 
 **Date**: 2019-11-11
 
-# Table of Contents
+# Table of Contents {ignore=true}
 
 [TOC]
 
