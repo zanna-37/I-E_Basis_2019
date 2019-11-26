@@ -9,17 +9,17 @@ export_on_save:
 
 <a href="https://zanna-37.github.io/I-E_Basis_2019/"><img src="./resources/home.png" alt="Home" style="vertical-align: bottom;">Home</a>
 
-# Battle 1 - Dystopian Privacy vs Transparency Worlds
+# Battle 1 - Dystopian Privacy vs Transparency Worlds {ignore=true}
 
 **Date**: 2019-10-28
 
-# Table of Contents
+# Table of Contents {ignore=true}
 
 [TOC]
 
 -----
 
-## Full Transparency
+# Full Transparency
 
 The solution for the **transparency** group is having a central database that is accessible by everyone and that contains all the information of everyone. Their main arguments are:
 
@@ -31,7 +31,7 @@ The solution for the **transparency** group is having a central database that is
 * We would know that politicians were corrupt, that someone threw the trash in the street, etc.
 * Economics - reality in food/shopping
 
-## Full Privacy
+# Full Privacy
 
 The solution for the **privacy** group consisted in a chip, in the palm of your hand, that could control your virtual presence, things like obfuscating yourself from private cameras and controlling your online presence and records are possible. Their main arguments are:
 

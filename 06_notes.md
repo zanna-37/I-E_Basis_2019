@@ -9,11 +9,11 @@ export_on_save:
 
 <a href="https://zanna-37.github.io/I-E_Basis_2019/"><img src="./resources/home.png" alt="Home" style="vertical-align: bottom;">Home</a>
 
-# Organisations
+# Organisations {ignore=true}
 
 **Date**: 2019-11-04
 
-# Table of Contents
+# Table of Contents {ignore=true}
 
 [TOC]
 

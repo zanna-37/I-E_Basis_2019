@@ -9,11 +9,11 @@ export_on_save:
 
 <a href="https://zanna-37.github.io/I-E_Basis_2019/"><img src="./resources/home.png" alt="Home" style="vertical-align: bottom;">Home</a>
 
-# Battle 2 - Utopian Eco
+# Battle 2 - Utopian Eco {ignore=true}
 
 **Date**: 2019-11-13
 
-# Table of Contents
+# Table of Contents {ignore=true}
 
 [TOC]
 
@@ -33,7 +33,7 @@ There are two proposals:
 - Ecology view _- by living in harmony with nature_
 - Engineering view _- engineering the planet_
 
-## Team Eco
+# Team Eco
 
 - It's important to emphasize the **culture of silence, nature sounds** against the noise of machinery
 - **Moving** in a new place to call home
@@ -52,7 +52,7 @@ There are two proposals:
   - No theft
   - Money creates inequality and forces people to work
 
-## Engineering powered utopia
+# Engineering powered utopia
 
 - **Celebrating engineering**
 - **Monitoring** climate events and energy consumption in the world
