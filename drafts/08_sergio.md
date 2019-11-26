@@ -1,6 +1,11 @@
 # Ethics and Social Innovation
 
-**Ethics** is a branch of philosophy asking what is right and what is wrong. It changes over time, e.g. voting rights for men, the answer to this question changed in little over 100 years. Ethics is also a collective process because, in some sense, we all agree that women should vote. When we scale this to the individual, we have **morals**. The morals is an instantiation of the ethics on an individual level. The evolution of technology also rises new ethical debates and creates new social contexts. Ethics helps us express value judgements.
+**Ethics** is a branch of philosophy asking what is right and what is wrong with some characteristics:
+
+*  It changes over time, e.g. voting rights for men, the answer to this question changed in little over 100 years. 
+* Ethics is also a collective process because, in some sense, we all agree that women should vote. When we scale this to the individual, we have **morals**. The morals is an instantiation of the ethics on an individual level. 
+* The evolution of technology also rises new ethical debates and creates new social contexts. 
+* Ethics helps us express value judgements.
 
 **Why is ethics important in fields like innovation and ICT?** Innovation brings disruption and changes the ethical context. 
 

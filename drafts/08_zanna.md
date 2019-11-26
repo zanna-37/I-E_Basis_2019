@@ -10,113 +10,89 @@
 
 # Ethics
 
-**Branch of philosophy** that guide us to decide what is **right or wrong**
-**Changes** over time `Example:` _Voting right for women_
-There is a **collective** (social) dimension
-Helps us express **value judgements**
+**Ethics** is a branch of philosophy asking what is right and what is wrong with some characteristics:
 
-## Why do we need to consider ethics in a business prospective?
+*  It changes over time, `Example:` voting rights for women, the answer to this question changed in little over 100 years. 
+* Ethics is also a collective process because, in some sense, we all agree that women should vote. When we scale this to the individual, we have **morals**. The morals is an instantiation of the ethics on an individual level. 
+* The evolution of technology also rises new ethical debates and creates new social contexts. 
+* Ethics helps us express value judgements.
 
-Coustomers may judge a company based on their own ethics
+Ethics is a field that needs to be considered from a **business perspective** because customers judge companies and brands based on their own ethics.
 
-## ICT ethics
+## Ethics in Innovation and ICT
 
-Cybercrimes are about stealing rights and information. We shift from ethics on goods and action to **ethics with regard to information**.
-Not every people have access to infomation
-Hard to quantify and qualify information
+The realm of ICT creates a third realm of problems such as information, intellectual property and others. People don't realise how much power information entails. 
 
-## Ethical problems
+* Cybercrimes are about stealing rights and information. We shift from ethics on goods and action to **ethics with regard to information**.
+* Not every people have access to infomation
+* Hard to quantify and qualify information
 
-Personal information saved and used by companies
-Copyright
-Internet access should be a human right
-Governament censorship
+### Examples of ethical problems in ICT
 
-# What makes an innovation "good"?
+* Companies can hold and own my personal data. One possible solution is not using data from messaging, for example, but use metadata. Another answer is cutting access to companies but give it to governmental agencies.
+* Copyright infrigement in the digital era. The regulation of copyrights is still an open debate.
+*  A clasical ethical problem is the self-driving car, are they allowed to drive on public streets? What decisions are made when facing an accident? An example is having internet access as a human right.
+* Internet access should be a human right
+* Governement censorship to digital content
 
-# Is technology neutral?
+**What makes an innovation good?** Addressing ethicals problems has they come.
 
-Is the technology biased or is it humans who put bias?
-technology unemployment
+### Is technology neutral?
 
-Technology has a design intent embeded in it, but the user can misunderstand or change the expected behaviour
+Some of the points risen were:
 
-# Are there emotional machines?
+* A machine is not bad or good, the human that operates it gives it the attribute
+* Technology is created with a good or bad motivation, it's ever hardly neutral
+* Technological unemployment - what will happen to the majority of workers when technology becomes so efficient?
 
-**Emotion:**
-- experiencing irrational behaviour
-- experiencing uncounscious and uncontrolled reaction to stimuli
+Technology has a design intent embedded into it, but the user can misunderstand it or change the expected behaviour.
 
-Discussion:
+### Are there emotional machines?
+
+We should part from defining what is actually being emotional:
+
+- Experiencing irrational behaviour
+- Experiencing uncounscious and uncontrolled reaction to stimuli
+
+Some answers to this questions were:
+
 - If I can make a synthethic brain functionally equal to a biological brain, then machines can experience emotions
 - Since the machines cannot have something uncontrolled they cannot experince emotion
-- The programmer can add uncententy to machines
+- The programmer can add uncertainty to machines
 
-# Biases
+### Designer's Intent
 
-## From Kant to ISO
+The idea is that each object has a function which reflects the designer's intent for it. If there are no designer's intent there's no meaningful object. It is the mismatch between how the designer sees the object and the user that vreates the ethical problems.
 
-There is a pipeline
-philosophy → politics → policy → standard → product design
+#### "From Kant to ISO"
 
-This pipeline require time for an idea to flow through
+Having a class between two different mental models happens because there is a time till which the philosophical basis go to ISOs. There is a pipeline **Philosophy → Politics → Policy → Standard → Product design** that requires time for an idea to flow through.
 
-# Trust the machine - do we have a choice?
+**Trust the machine - do we have a choice?**
 
-Machines are too complicate to be fully understand, so we are trusting the machine
-If we don't trust the machine then humans may be a bottleneck that slows the evolution
+* We can prove what is the behaviour of a machine before using it.
+* If we add human supervisor to the behaviour of a machine, then human supervisor becomes the bottleneck of machines actions because they are capable of much more than humans.
+* We don't need to trust the most complex systems, we can just use them.
+* If a machine is a black-box, it can also be a system of black-boxs, creating some sort of Russian doll of black boxes. How deep do we need to go into the system to trust it?
 
-## How deep can we dig in a blackbox, before giving up?
+**What can we do about this?** Accept that it's going to change with time and we need to be ready to adapt. Policymaking.
 
-Every system is a recursive set of blackbox one inside the other, and as the time passes the blackbox will begin to increase its depth
+#### Policymaking
 
-# Policymaking
+**Policy** is a set of rules that describe how a behaviour/process should be done. It is different from an algorithm because it doesn't define instructions and sequences but guidelines. **Politics** is about formalising the ethical context we are in. It is a process that enables a dialog within society. Politics defines what policies you create and how you implement it. 
 
-Policy:
-- set of (high level) rules
-  - _different from an algorithm because the latter is more precise and bounded_
+## Social Innovation
 
-Politics:
-- creates a dialog
-- formalizing ethical context
+**Social Innovation** is about changing a common sense that is shared with society. One example can public transportation, it moved the power from the few and gave access to everyone, despite of their social and economic status. For example, after Facebook, it is OK (and considered safe) to share your real identity information over the internet while this wasn't true 2 decades ago. Universal Basic Income can also be one because the basic Maslow's pyramid needs will be met. Digitalisation is also a new one because it gives a voice for everyone who has access to the internet
 
-# Innovation + Social
+There are 3 types of views for how we can view social innovation:
 
-After Facebook it is OK _(and it is usually considered safe)_ to share real identity information over internet
-Digitalizing action that was physical changes how we interact `Example:` _Ordering food_
-Universal basic income
-Possibility to share personal thoughts and being heard even if you are not famous
+* **Narrow view** is the perspective of social innovation that tries to change the common sense in a positive way. An example can Bill Gates foundation by providing clear water to communities. Crowdfunding. Social assistance. Building accessible infrastructures. 
+* **Societal challenges** are challenges that affect everybody. Some examples can be: vaccination, climate change, colonisation of other planets, access to technology. Online learning addresses the societal challenge of learning. Nuclear fusion addreses the problem of nuclear fusion. 
+* **Systemic transformation** can be seen as view of empowerment. Voting rights. Universal Basic Income. Emancipation. Awareness campaigns. 
 
-## Narrow view
+### CSR - Corporate Social Responsibility
 
-Addressing small part of the population
+CSR is the policy of companies so that the behave in a more socially compatible way with society. 
 
-Building accessible infrastrusture
-Clean water for people who cannot access drinking water
-Fuond rasing platform
-
-## Societal challenges
-
-Medications
-Climate change
-Planet colonization
-Mobility
-
-### Innovation that address societal challenges
-
-Online learning to educate a popolation
-Public transportation
-Big social organizations
-
-## Systemic transformation
-
-Universal basic income
-Voting rights
-Women or minority emancipation
-Awareness campains
-
-# CSR - Corporate Social Responsibility
-
-Organization that establish a policy (mandatory or not) in order to become socially active
-It is a code of conduct to be socially aware
 `Example:` _Once per year a marathon is organized to raise money to build schools or to improve socially relevant infrastrustures_
