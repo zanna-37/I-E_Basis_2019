@@ -7,7 +7,7 @@
 * Machines are fast, precise and reliable
 * Online banks - no queues, 24/7 availability, decisions based on numbers - not on emotions, better management of money, no greed
 * if machines run the market, they can quickly if something is wrong and can prevent crisis
-* Doctors make mistakes, even when experienced - machines don't have the mental and physical limits of humans and are extremely precise, accurate, take less time and can provide predictions
+* 
 * Mobility - coordination system can be developed with automated driving systems, removing humans from driving, public transportation
 * More time to focus on what matters
 * Humans can focus on research and innovating
