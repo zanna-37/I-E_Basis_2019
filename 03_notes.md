@@ -9,11 +9,11 @@ export_on_save:
 
 <a href="https://zanna-37.github.io/I-E_Basis_2019/"><img src="./resources/home.png" alt="Home" style="vertical-align: bottom;">Home</a>
 
-# Entrepreneurship
+# Entrepreneurship {ignore=true}
 
 **Date**: 2019-10-14
 
-# Table of Contents
+# Table of Contents {ignore=true}
 
 [TOC]
 
