@@ -8,7 +8,7 @@
 
 -----
 
-# From Close to Open Innovation
+# From Close to Open Innovation [📹0:00](https://youtu.be/e2u1EAyNRAo)
 
 **Most innovations fail. Companies that don't innovate die.** These statements are related with how innovations are at the core of innovations continue to survive and exist. *How has the process of innovation has changed in the last 20 years? Why is it extremely relevant nowadays and why it makes or breaks organisations?* 
 
@@ -16,7 +16,11 @@ Organisations need to change, over time they evolve their organisational structu
 
 With digital transformation the focus on what its being developed has been shifted to the customer, integrating customers in the core processes of the company. A customer-centric process nowadays has led to an increase in buy in R&D.
 
-## Closed Innovation
+`Quote`: "People only see what they are prepared to see." - Ralph Waldo Emerson
+
+30 to 40 years ago, there was the understanding that all products and innovations would be carried out by bigger organisations. Only the ones doing R&D would be the ones to play a role in this innovation process to come with new products and services. These products would be pushed to the market, they were dictating the speed at which the development and technological advancement was happening.
+
+## Closed Innovation [📹16:53](https://youtu.be/e2u1EAyNRAo?t=1013)
 
 `Quote:` "If the rate of change on the outside exceeds the rate of change on the inside, the end is near" - Jack Welch
 
@@ -34,13 +38,7 @@ People can only deal with the amount of changes they are prepared to
 In the past the progress was usually only brought by big companies because of the costs involved in the researches and prototipization.
 Cannot continue in this way → **paradigm shift from closed to open innovation**
 
-## Paradigm Shift
-
-`Quote`: "People only see what they are prepared to see." - Ralph Waldo Emerson
-
-30 to 40 years ago, there was the understanding that all products and innovations would be carried out by bigger organisations. Only the ones doing R&D would be the ones to play a role in this innovation process to come with new products and services. These products would be pushed to the market, they were dictating the speed at which the development and technological advancement was happening.
-
-## Closed innovation
+Closed innovation has the following characteristics:
 
 - It follows a **linear model** that can be production push or market pull.
 - The innovation happens inside the firm, developing everything internally
@@ -59,13 +57,7 @@ Cannot continue in this way → **paradigm shift from closed to open innovation*
 
 The closed innovation model is normally vertical. Few people decide what need to be done, the decisions are transformed into action plans, these actions plans are transformed in operations, market feedback is not relevant, the operational line has nothing to do with the external world.
 
-## Open Innovation
-
-In an open innovation world, the knowledge division of labor becomes distributed, systematics, involves all level of the value chain. This is how the world has been currently sourcing knowledge, knowing it doesn't belong to anyone specific but to a group. With open innovation, opening up and cooperation is mandatory and leads to the creation of alliances, joint ventures, networks, communities, clusters, groups of interest, constellations of organisations, etc.
-
-Instead of having R&D as a closed system, meaning that what comes out of it leads to new products or services, a systematics way of innovating was created and that's how open innovation thrives.
-
-## Changing sources of innovation
+## Organisational structures and sources of innovation [📹39:44](https://youtu.be/e2u1EAyNRAo?t=2384)
 On a vertical organisational structure, we have few people that decide and no real feedback from the markets.
 
 Google changed the rules by creating a different way of how people work. Allowing for 50% of the work-time to be dedicated to **personal projects**, which can be pitched to the owners. This allowed Googlers to develop their own ideas and bring innovation to the company from another source.
@@ -75,3 +67,9 @@ Another example of a source of innovation that is currently buzzing is **hackath
 Another source of innovation is acquiring other companies, this is something that, for example, Facebook is doing. They don't have internal innovation so they buy external value.
 
 On the other hand, Apple is one of the few companies that still has internal R&D and _push_ to the market instead of trying to diversify their sources outside the company environment.
+
+## Open Innovation [📹1:04:50](https://youtu.be/e2u1EAyNRAo?t=3890)
+
+In an open innovation world, the knowledge division of labor becomes distributed, systematics, involves all level of the value chain. This is how the world has been currently sourcing knowledge, knowing it doesn't belong to anyone specific but to a group. With open innovation, opening up and cooperation is mandatory and leads to the creation of alliances, joint ventures, networks, communities, clusters, groups of interest, constellations of organisations, etc.
+
+Instead of having R&D as a closed system, meaning that what comes out of it leads to new products or services, a systematics way of innovating was created and that's how open innovation thrives.
