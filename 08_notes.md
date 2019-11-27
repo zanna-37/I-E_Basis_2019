@@ -8,7 +8,7 @@
 
 -----
 
-# Ethics
+# Ethics [📹0:00](https://youtu.be/maQuXKHhIbI)
 
 **Ethics** is a branch of philosophy asking what is right and what is wrong with some characteristics:
 
@@ -19,7 +19,7 @@
 
 Ethics is a field that needs to be considered from a **business perspective** because customers judge companies and brands based on their own ethics.
 
-## Ethics in Innovation and ICT
+## Ethics in Innovation and ICT [📹13:28](https://youtu.be/maQuXKHhIbI?t=808)
 
 The realm of ICT creates a third realm of problems such as information, intellectual property and others. People don't realise how much power information entails. 
 
@@ -27,7 +27,7 @@ The realm of ICT creates a third realm of problems such as information, intellec
 * Not every people have access to infomation
 * Hard to quantify and qualify information
 
-### Examples of ethical problems in ICT
+### Examples of ethical problems in ICT [📹19:35](https://youtu.be/maQuXKHhIbI?t=1175)
 
 * Companies can hold and own my personal data. One possible solution is not using data from messaging, for example, but use metadata. Another answer is cutting access to companies but give it to governmental agencies.
 * Copyright infrigement in the digital era. The regulation of copyrights is still an open debate.
@@ -37,7 +37,7 @@ The realm of ICT creates a third realm of problems such as information, intellec
 
 **What makes an innovation good?** Addressing ethicals problems has they come.
 
-### Is technology neutral?
+### Is technology neutral? [📹39:10](https://youtu.be/maQuXKHhIbI?t=2350)
 
 Some of the points risen were:
 
@@ -47,7 +47,7 @@ Some of the points risen were:
 
 Technology has a design intent embedded into it, but the user can misunderstand it or change the expected behaviour.
 
-### Are there emotional machines?
+### Are there emotional machines? [📹45:30](https://youtu.be/maQuXKHhIbI?t=2730)
 
 We should part from defining what is actually being emotional:
 
@@ -60,15 +60,15 @@ Some answers to this questions were:
 - Since the machines cannot have something uncontrolled they cannot experince emotion
 - The programmer can add uncertainty to machines
 
-### Designer's Intent
+### Designer's Intent [📹55:27](https://youtu.be/maQuXKHhIbI?t=3327)
 
 The idea is that each object has a function which reflects the designer's intent for it. If there are no designer's intent there's no meaningful object. It is the mismatch between how the designer sees the object and the user that vreates the ethical problems.
 
-#### "From Kant to ISO"
+#### "From Kant to ISO" [📹59:06](https://youtu.be/maQuXKHhIbI?t=3546)
 
 Having a class between two different mental models happens because there is a time till which the philosophical basis go to ISOs. There is a pipeline **Philosophy → Politics → Policy → Standard → Product design** that requires time for an idea to flow through.
 
-**Trust the machine - do we have a choice?**
+**Trust the machine - do we have a choice? **[📹01:03:03](https://youtu.be/maQuXKHhIbI?t=3783)
 
 * We can prove what is the behaviour of a machine before using it.
 * If we add human supervisor to the behaviour of a machine, then human supervisor becomes the bottleneck of machines actions because they are capable of much more than humans.
@@ -77,11 +77,11 @@ Having a class between two different mental models happens because there is a ti
 
 **What can we do about this?** Accept that it's going to change with time and we need to be ready to adapt. Policymaking.
 
-#### Policymaking
+#### Policymaking [📹1:13:28](https://youtu.be/maQuXKHhIbI?t=4408)
 
 **Policy** is a set of rules that describe how a behaviour/process should be done. It is different from an algorithm because it doesn't define instructions and sequences but guidelines. **Politics** is about formalising the ethical context we are in. It is a process that enables a dialog within society. Politics defines what policies you create and how you implement it. 
 
-## Social Innovation
+## Social Innovation [📹1:18:12](https://youtu.be/maQuXKHhIbI?t=4692)
 
 **Social Innovation** is about changing a common sense that is shared with society. One example can public transportation, it moved the power from the few and gave access to everyone, despite of their social and economic status. For example, after Facebook, it is OK (and considered safe) to share your real identity information over the internet while this wasn't true 2 decades ago. Universal Basic Income can also be one because the basic Maslow's pyramid needs will be met. Digitalisation is also a new one because it gives a voice for everyone who has access to the internet
 
@@ -91,7 +91,7 @@ There are 3 types of views for how we can view social innovation:
 * **Societal challenges** are challenges that affect everybody. Some examples can be: vaccination, climate change, colonisation of other planets, access to technology. Online learning addresses the societal challenge of learning. Nuclear fusion addreses the problem of nuclear fusion. 
 * **Systemic transformation** can be seen as view of empowerment. Voting rights. Universal Basic Income. Emancipation. Awareness campaigns. 
 
-### CSR - Corporate Social Responsibility
+### CSR - Corporate Social Responsibility [📹1:34:14](https://youtu.be/maQuXKHhIbI?t=5652)
 
 CSR is the policy of companies so that the behave in a more socially compatible way with society. 
 
