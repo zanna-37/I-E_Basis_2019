@@ -1,3 +1,14 @@
+---
+ebook:
+  title: Lecture 07
+
+export_on_save:
+  ebook: "html"
+
+---
+
+<a href="https://zanna-37.github.io/I-E_Basis_2019/"><img src="./resources/home.png" alt="Home" style="vertical-align: bottom;">Home</a>
+
 # Open / Closed Innovation {ignore=true}
 
 **Date**: 2019-11-11
@@ -10,21 +21,21 @@
 
 # From Close to Open Innovation [📹0:00](https://youtu.be/e2u1EAyNRAo)
 
-**Most innovations fail. Companies that don't innovate die.** These statements are related with how innovations are at the core of innovations continue to survive and exist. *How has the process of innovation has changed in the last 20 years? Why is it extremely relevant nowadays and why it makes or breaks organisations?* 
+**Most innovations fail. Companies that don't innovate die.** These statements are related with how innovations are at the core of innovations continue to survive and exist. *How has the process of innovation has changed in the last 20 years? Why is it extremely relevant nowadays and why it makes or breaks organisations?*
 
 Organisations need to change, over time they evolve their organisational structure. Some organisational structures include matrix, divisional, hierarchial, etc. Companies need to absorb the environment of change internally in order to reproduce the changes and use them in their work. The R&D may happen outside and it needs to be internalised within the organisation by someone.
 
 With digital transformation the focus on what its being developed has been shifted to the customer, integrating customers in the core processes of the company. A customer-centric process nowadays has led to an increase in buy in R&D.
 
-`Quote`: "People only see what they are prepared to see." - Ralph Waldo Emerson
+`Quote:` _"People only see what they are prepared to see." - Ralph Waldo Emerson_
 
 30 to 40 years ago, there was the understanding that all products and innovations would be carried out by bigger organisations. Only the ones doing R&D would be the ones to play a role in this innovation process to come with new products and services. These products would be pushed to the market, they were dictating the speed at which the development and technological advancement was happening.
 
 ## Closed Innovation [📹16:53](https://youtu.be/e2u1EAyNRAo?t=1013)
 
-`Quote:` "If the rate of change on the outside exceeds the rate of change on the inside, the end is near" - Jack Welch
+`Quote:` _"If the rate of change on the outside exceeds the rate of change on the inside, the end is near" - Jack Welch_
 
-When there is a discrepancy in the rate of change inside and outside an organization, there is a problem. R&D happens within the firm, the logic is that either you buy the knowledge from somewhere but you internalise it and you develop it internally or you have a team of people only working on innovation - having a dedicated team to innovation. If you cannot do any of them the company start to slow down its development.
+When there is a discrepancy in the rate of change inside and outside an organization, there is a problem. R&D happens within the firm, the logic is that either you buy the knowledge from somewhere but you internalise it and you develop it internally or you have a dedicated team of people only working on innovation. If you cannot do any of them the company start to slow down its development.
 
 **Diversity of thoughts** is a key value to innovate.
 
@@ -44,7 +55,7 @@ Closed innovation has the following characteristics:
 - The innovation happens inside the firm, developing everything internally
   - Teams working in the R&D specifically, they do the reasearch outside all other company sectors
   - When they are done, they talk to the manufacture sector that will talk to sales, and so on.
-- It is important to have a **patent** because it allows to guarantee the ownership of the technology and also increase revenue through royalties.
+- It is important to have **patents** because they allow to guarantee the ownership of the technology and also increase revenue through royalties.
     - **Problems for patents:**
       - Different patents for different countries
       - The market is moving **too fast to wait for a patent** → innovation cycle is too fast
@@ -73,3 +84,5 @@ On the other hand, Apple is one of the few companies that still has internal R&D
 In an open innovation world, the knowledge division of labor becomes distributed, systematics, involves all level of the value chain. This is how the world has been currently sourcing knowledge, knowing it doesn't belong to anyone specific but to a group. With open innovation, opening up and cooperation is mandatory and leads to the creation of alliances, joint ventures, networks, communities, clusters, groups of interest, constellations of organisations, etc.
 
 Instead of having R&D as a closed system, meaning that what comes out of it leads to new products or services, a systematics way of innovating was created and that's how open innovation thrives.
+
+The virtuos circle can be broken as there is more knowledge available in the system → _universities, knowledge economy_

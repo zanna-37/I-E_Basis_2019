@@ -17,6 +17,8 @@ export_on_save:
 
 [TOC]
 
+-----
+
 # Introduction to Organisations [📹0:00](https://youtu.be/OrS0u7KuEYI)
 
 **What are organisations and why do we need organisations?** Humans beings together are stronger. It suggests that there are roles. Rules. Hierarchy. Efficiency. Organisations exist to help with decision making.

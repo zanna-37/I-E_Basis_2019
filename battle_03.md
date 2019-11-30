@@ -1,3 +1,14 @@
+---
+ebook:
+  title: Battle 3
+
+export_on_save:
+  ebook: "html"
+
+---
+
+<a href="https://zanna-37.github.io/I-E_Basis_2019/"><img src="./resources/home.png" alt="Home" style="vertical-align: bottom;">Home</a>
+
 # Battle 3 - Trust Machines vs Trust Humans {ignore=true}
 
 **Date**: 2019-11-18
@@ -6,13 +17,13 @@
 
 [TOC]
 
----
+-----
 
-# Trust the Machines!
+# Trust the Machines! 🤖
 
 - Human progress depends on trusting the machine
 - Infinite queues and lazy employees - delays in day-to-day life, humans fail and have consequences to others
-- Humans are fallible and they can say no if they don't feel comfortable - machines won't say no to perform surgery
+- Humans are fallible and they can say no if they don't feel comfortable - machines won't say no to perform a risky surgery
 - Online banks - no queues, 24/7 availability, decisions based on numbers - not on emotions, better management of money, no greed
 - Machines are efficient, availavble 24/7, scalable to everywhere
 - They make decisions based on numbers, not on emotions. This means:
@@ -21,8 +32,8 @@
 - Machines always know the best solution for the global prospective
 - Machine can quickly find mistakes and prevent crisis and deflation in an economic system
 - Making error is part of humans existence
-- experience is based on ERRORs and they may be costfull
-- machine → learn without the need of trivial mistakes (they are already been made by others and they just learn from them)
+- Experience is based on errors and they may be costfull
+- Machines learn without the need of trivial mistakes (they are already been made by others and they just learn from them)
 - More time (for humans) to focus on what matters
 
 ## Medicine
@@ -49,7 +60,7 @@
 - Humans can do research and focus on things that matters as spend more time with the family
 - It's true that machines can make mistakes but they do it only once, humans make the same mistake over and over again
 
-# Go Humans!
+# Go Humans! 💪
 
 - Trust humans in a world dominated by machines
 - Machines are better on specific tasks but it's better to trust humans for broader jobs
@@ -62,7 +73,7 @@
   - machine can only _fake_ emotion and not provide real comfort
 - Machines won't be able to do psychiatry because we need a deep emotional connection with the patient in order to succeed
 
-## Empathy
+### Empathy
 
 - Empaty is a human thing and it's about understanding the human in front of you
 - Empaty is important in medicine, as it can change the result of a treatement
@@ -78,7 +89,7 @@
 ## Ethics
 
 * For example, doctors take the hypocratical oath
-* Algorithms may be biased  `Example:` _by the training sample_
+* Algorithms may be biased, for instance, by the training sample
 
 ## Accountability
 
@@ -87,7 +98,6 @@
 ## Security & Privacy
 
 - Machines are curious about data, this may mean that confidentiality will be broken
-
 - Machine can be hacked, humans can't
 
 Humans can deal with unseen scenarions and find answers to them. If a scenario is strange enough, the machine won't be able to create a solution because it ahs not data to base its decision on. The human is the real player in the world that we need to invest in. Machines are nothing more than a tool that we can use.
