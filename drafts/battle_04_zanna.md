@@ -1,6 +1,6 @@
 **Date**: 2019-11-27
 
-# Battle 4 - Smart cities
+# Battle 4 - Smart Cities vs Smart Countrysides
 
 Two planets have been colonized, in two different ways.
 One is decentralized and the other is centralized.
