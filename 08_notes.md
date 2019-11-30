@@ -54,7 +54,7 @@ Some of the points risen were:
 
 * A machine is not bad or good, the **human** that operates it **gives** it the **attribute**
 * Technology is created with a good or bad motivation, it's ever hardly neutral
-  * Technology has a **design intent** embeded in it, but the user can misunderstand or change the expected behaviour
+  * Technology has a **design intent** embedded in it, but the user can misunderstand or change the expected behaviour
 * **Technological unemployment** - what will happen to the majority of workers when technology becomes so efficient?
 
 ### Are there emotional machines? [📹45:30](https://youtu.be/maQuXKHhIbI?t=2730)
