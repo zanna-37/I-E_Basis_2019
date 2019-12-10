@@ -19,7 +19,9 @@ export_on_save:
 
 -----
 
-# Trust the Machines! 🤖
+# Overview [📹0:00](https://youtu.be/7UC7s74nVuw)
+
+# Trust the Machines! 🤖 [📹2:32](https://youtu.be/7UC7s74nVuw?t=152)
 
 - Human progress depends on trusting the machine
 - Infinite queues and lazy employees - delays in day-to-day life, humans fail and have consequences to others
@@ -60,7 +62,7 @@ export_on_save:
 - Humans can do research and focus on things that matters as spend more time with the family
 - It's true that machines can make mistakes but they do it only once, humans make the same mistake over and over again
 
-# Go Humans! 💪
+# Go Humans! 💪 [📹14:29](https://youtu.be/7UC7s74nVuw?t=869)
 
 - Trust humans in a world dominated by machines
 - Machines are better on specific tasks but it's better to trust humans for broader jobs
@@ -101,3 +103,5 @@ export_on_save:
 - Machine can be hacked, humans can't
 
 Humans can deal with unseen scenarions and find answers to them. If a scenario is strange enough, the machine won't be able to create a solution because it ahs not data to base its decision on. The human is the real player in the world that we need to invest in. Machines are nothing more than a tool that we can use.
+
+# See the debate → [📹25:03](https://youtu.be/7UC7s74nVuw?t=1503)

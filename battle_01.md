@@ -19,7 +19,9 @@ export_on_save:
 
 -----
 
-# Full Transparency
+# Overview [📹0:00](https://youtu.be/CaiuLaOAgQs)
+
+# Full Transparency [📹5:54](https://youtu.be/CaiuLaOAgQs?t=354)
 
 The solution for the **transparency** group is having a central database that is accessible by everyone and that contains all the information of everyone. Their main arguments are:
 
@@ -31,7 +33,7 @@ The solution for the **transparency** group is having a central database that is
 * We would know that politicians were corrupt, that someone threw the trash in the street, etc.
 * Economics - reality in food/shopping
 
-# Full Privacy
+# Full Privacy [📹17:37](https://youtu.be/CaiuLaOAgQs?t=1057)
 
 The solution for the **privacy** group consisted in a chip, in the palm of your hand, that could control your virtual presence, things like obfuscating yourself from private cameras and controlling your online presence and records are possible. Their main arguments are:
 
@@ -42,3 +44,5 @@ The solution for the **privacy** group consisted in a chip, in the palm of your 
 * Protecting the judgment of others
 * Organ donation needs to be private
 * It is a problem if your medical history and records are disclosed
+
+# See the debate → [📹28:51](https://youtu.be/CaiuLaOAgQs?t=1731)

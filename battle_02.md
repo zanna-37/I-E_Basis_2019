@@ -19,7 +19,7 @@ export_on_save:
 
 -----
 
-# Overview
+# Overview [📹0:00](https://youtu.be/xd3pUgCmz4w)
 
 The battle is a battle of utopias that starts from the idea of the **Kardashev scale**[^1].
 [^1]: **Kardashev scale** [[wikipedia](https://en.wikipedia.org/wiki/Kardashev_scale)] is a method of measuring a civilization's level of technological advancement based on the amount of energy they can use.
@@ -35,7 +35,7 @@ There are two proposals:
 - Ecology view _- by living in harmony with nature_
 - Engineering view _- engineering the planet_
 
-# Team Eco
+# Team Eco [📹4:30](https://youtu.be/xd3pUgCmz4w?t=270)
 
 - It's important to emphasize the **culture of silence, nature sounds** against the noise of machinery
 - **Moving** in a new place to call home
@@ -54,7 +54,7 @@ There are two proposals:
   - No theft
   - Money creates inequality and forces people to work
 
-# Engineering powered utopia
+# Engineering powered utopia [📹17:54](https://youtu.be/xd3pUgCmz4w?t=1074)
 
 - **Celebrating engineering**
 - **Monitoring** climate events and energy consumption in the world
@@ -80,3 +80,5 @@ There are two proposals:
 - **Bacteria** genetically modified **to eat the CO~2~** in the atmosphere and clean the air
 - **Genetic therapy** to fight diseases
 - Digital chosen **diet**
+
+# See the debate → [📹29:13](https://youtu.be/xd3pUgCmz4w?t=1753)
