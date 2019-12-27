@@ -51,7 +51,7 @@ You have a ticket from planet Earth to go to one of these planets, which one wil
 - There are more nature and more space for animals and backyards
 - Understimulation is not a problem, as people vision will change
 - Decentralised is better, it is the future, don't be afraid to change it
-- You don't have to plan nature [as in cities, ed.], it's already there
+- You don't have to plan the nature [as in cities, ed.], it's already there
 
 # Smart Cities [📹11:02](https://youtu.be/TDck7QKtaVY?t=662)
 
